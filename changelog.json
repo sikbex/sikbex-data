@@ -4,14 +4,14 @@
     "date": "21/05/2025",
     "label": "Lançamento",
     "entries": [
-      { "type": "novo", "title": "Score de Otimização", "description": "Veja em tempo real o quanto seu PC está otimizado, dividido por categorias como CPU, GPU, RAM, disco e mais." },
-      { "type": "novo", "title": "Tweaks de Sistema", "description": "Ajustes profundos para CPU, GPU, RAM, rede e sistema operacional com um clique." },
-      { "type": "novo", "title": "Instalador Integrado", "description": "Instale os programas mais usados de forma rápida, sem precisar acessar sites externos." },
-      { "type": "novo", "title": "Gerenciamento UWP", "description": "Remova apps desnecessários pré-instalados pelo Windows e libere espaço e recursos." },
-      { "type": "novo", "title": "Limpeza do Sistema", "description": "Elimine arquivos temporários, cache e lixo acumulado que estão pesando no seu PC." },
-      { "type": "novo", "title": "Agendador de Tarefas", "description": "Gerencie e desative tarefas agendadas do Windows que rodam em segundo plano." },
-      { "type": "novo", "title": "Configurações Avançadas", "description": "Acesso a opções do sistema normalmente escondidas, sem precisar do regedit." },
-      { "type": "novo", "title": "Sistema de Licenças", "description": "Ativação e verificação de licença online com suporte a múltiplos planos." }
+      { "type": "New", "title": "Score de Otimização", "description": "Veja em tempo real o quanto seu PC está otimizado, dividido por categorias como CPU, GPU, RAM, disco e mais." },
+      { "type": "New", "title": "Tweaks de Sistema", "description": "Ajustes profundos para CPU, GPU, RAM, rede e sistema operacional com um clique." },
+      { "type": "New", "title": "Instalador Integrado", "description": "Instale os programas mais usados de forma rápida, sem precisar acessar sites externos." },
+      { "type": "New", "title": "Gerenciamento UWP", "description": "Remova apps desnecessários pré-instalados pelo Windows e libere espaço e recursos." },
+      { "type": "New", "title": "Limpeza do Sistema", "description": "Elimine arquivos temporários, cache e lixo acumulado que estão pesando no seu PC." },
+      { "type": "New", "title": "Agendador de Tarefas", "description": "Gerencie e desative tarefas agendadas do Windows que rodam em segundo plano." },
+      { "type": "New", "title": "Configurações Avançadas", "description": "Acesso a opções do sistema normalmente escondidas, sem precisar do regedit." },
+      { "type": "New", "title": "Sistema de Licenças", "description": "Ativação e verificação de licença online com suporte a múltiplos planos." }
     ]
   }
 ]
