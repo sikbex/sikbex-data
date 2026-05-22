@@ -1,0 +1,17 @@
+[
+  {
+    "version": "v1.0.0",
+    "date": "21/05/2025",
+    "label": "Lançamento",
+    "entries": [
+      "Score de otimização com análise por categoria",
+      "Tweaks de sistema, CPU, GPU, RAM e rede",
+      "Instalador de programas integrado",
+      "Gerenciamento de apps UWP",
+      "Limpeza de arquivos temporários e cache",
+      "Agendador de Tarefas do Windows",
+      "Configurações avançadas do sistema",
+      "Sistema de licenças com verificação online"
+    ]
+  }
+]
