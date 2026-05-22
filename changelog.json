@@ -11,7 +11,8 @@
     "version": "v1.0.0",
     "date": "21/05/2025",
     "label": "Lançamento",
-    "entries": [salveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee]
+    "entries": [
+      { "type": "Fix", "title": "sou zika", "description": "dangelo arrombado" }
   },
   {
     "version": "v1.0.0",
