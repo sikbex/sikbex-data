@@ -1,21 +1,5 @@
 [
   {
-    "version": "v1.0.1",
-    "date": "21/05/2026",
-    "label": "Patch",
-    "entries": [
-      { "type": "Fix", "title": "Teste de Update", "description": "Testando atualização remota do changelog." }
-    ]
-  },
-  {
-    "version": "v1.0.0",
-    "date": "21/05/2025",
-    "label": "Lançamento",
-    "entries": [
-      { "type": "New", "title": "Score de Otimização", "description": "salveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee." }
-    ]
-  },
-  {
     "version": "v1.0.0",
     "date": "21/05/2025",
     "label": "Lançamento",
